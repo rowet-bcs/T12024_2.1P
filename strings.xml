@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task 2.1P</string>
+    <string name="headerValue">Unit Converter App</string>
+    <string name="footerValue">SIT305 Task 2.1P</string>
+    <string name="convertButtonText">CONVERT</string>
+    <string name="valueTextPlaceholder">Enter value</string>
+    <string name="selectConversionType">Select Conversion Type</string>
+    <string name="selectSourceUnit">Select source unit and enter value</string>
+    <string name="selectDestinationUnit">Select destination unit</string>
+
+</resources>
